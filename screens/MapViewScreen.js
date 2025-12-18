@@ -111,7 +111,7 @@ export default function MapViewScreen() {
                     });
                 }
             </script>
-            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXHHcIuSH7oZjqz4gT3n7AN4uUUNWNkLU&callback=initMap" async defer></script>
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSy..." async defer></script>
         </body>
         </html>
     `;
